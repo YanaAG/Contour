@@ -1,0 +1,10 @@
+{
+  "name": "Contour",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "paper": "^0.12.3"
+  }
+}
